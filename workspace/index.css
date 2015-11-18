@@ -1,0 +1,187 @@
+nav{
+  color:rgb(255,255,255);
+}
+a:hover{
+  color:blue;
+  font-weight: 900;
+}
+nav{
+  font-family: cursive;
+  font-size: 30px;
+  list-style-type: none;
+}
+nav li{
+  float:left; 
+  display: block;
+  margin: 5px;
+}
+h1{
+  text-align:center;
+  color: black;
+}
+a{
+  list-style-type: none;
+}
+body{
+  color: black ; 
+  font-family: cursive;
+}
+nav{
+  opacity: .75;
+  font-family: cursive;
+  font-size: 30px;
+  color:black;
+  
+}
+body{
+  background: url("footer_lodyas.png");
+  background-size: cover;
+  background-repeat: repeat;
+}
+.Hello{
+ color:white;
+}
+.why{
+ text-align: left;
+}
+.h2{
+ text-align: center;
+}
+.wrapper{
+  width: 960px;
+  margin: 0 auto;
+}
+.header{
+  float:left;
+  background: white ;
+  margin: 10px 0 0 0;
+  height: `00px; 
+ 
+  width:955.2px;
+}
+.main_content{
+  float: left;
+  background: white;
+  margin: 10px 1px 10px 0;
+  width: 620px;
+  height:1130px;
+}
+.main_content2{
+  float: left;
+  background: white;
+  margin: 120px 5px 10px 0;
+  width: 955.2px;
+  height:1930px;
+}
+.sidebar{
+  float: right;
+  background: white;
+  margin: 10px 5px 5px 6px;
+  width:324px;
+ height:1130px;
+}
+.footer{
+  clear: both;
+  float: left;
+  background: white;
+  width: 99.5%;
+  height: 100px;
+  margin-bottom: 10px;
+  margin-top: 1px;
+}
+a, u {
+  text-decoration: none;
+  color:rgb(120,120,120);
+}
+.search_form input{
+  padding: 5px;
+}
+.sidebar-list{
+  margin:20px;
+}
+.sidebar-list li{
+  list-style: none;
+  margin: 10px 0 1px 10px;
+  padding-bottom: 10px;
+  border-bottom: 1px dotted black;
+}
+.sidebar-list li a{
+  text-decoration: none;
+  color:rgb(120,120,120);
+  font-size: 30px;
+  
+}
+.sidebar-list a:hover{
+  color:blue;
+  font-weight: 900;
+}
+.pianopic{
+  width: 323px;
+  height: 200px;
+}
+.music{
+  float: none;
+  width:321px; 
+  margin: 0 0 0 150px;
+  border-bottom-width: medium;
+}
+.music1{
+  margin:0 6000px 0 0;
+}
+.Song{
+  font-size: 30px;
+  width: 620px;
+  text-align: center;
+}
+.main_contentp3{
+  background: white;
+  margin: 10px 5px 10px 0;
+  width: 99.5%;
+  height: 620px;
+  overflow: scroll;
+}
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+  border: 1px solid black;
+}
+tr:hover{
+  background-color:rgb(192,192,192);
+}
+#home a{
+  color:blue;
+}
+#Yello{
+  width:52%;
+  margin:0 auto;
+}
+.kl{
+  text-align:center;
+  width:80%;
+  margin: 0 auto;
+}
+.ms{
+  float:none;
+  float: right;
+  margin:0px 200px 0px 0px;
+  width:.1px;
+}
+iframe{
+  width:300px;
+  height:170px;
+}
+.hi{
+  border-bottom: 1px dotted black;
+}
+
+h1, h2, h3, p{
+  text-align: center;
+  font-family:arial;
+}
+.share-buttons img {
+  width:45px;
+  padding:5px;
+  margin:25px 0;
+  display:inline;
+}
